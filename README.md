@@ -1,8 +1,8 @@
 # FundRaising Smart Contract Suite 📜
 
-Welcome to the **FundRaising Smart Contract Suite**, a robust and scalable solution for decentralized crowdfunding. This suite supports contributions in both **ETH** and **USD**, offers customizable funding goals, and ensures only authorized withdrawals by the contract owner.
+Welcome to the **FundRaising Smart Contract Suite**, a robust and scalable solution for decentralized crowdfunding. This suite supports contributions in both **ETH** and **USD**, offers customizable funding goals, and ensures only authorized withdrawals by the contract owner
 
-Designed with **Foundry**, this repository includes core contracts, deployment scripts, and comprehensive tests, ensuring flexibility, security, and reliability. Whether you're building a fundraising platform, DAO treasury, or blockchain-based charity, this implementation provides a solid foundation.
+Designed with **Foundry**, this repository includes core contracts, deployment scripts, and comprehensive tests, ensuring flexibility, security, and reliability. Whether you're building a fundraising platform, DAO treasury, or blockchain-based charity, this implementation provides a solid foundation
 
 ---
 ## Table of Contents
