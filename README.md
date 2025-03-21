@@ -1,4 +1,4 @@
-# FundRaising Smart Contract Suite 📜
+# FundRaising
 
 Welcome to the **FundRaising Smart Contract Suite**, a robust and scalable solution for decentralized crowdfunding. This suite supports contributions in both **ETH** and **USD**, offers customizable funding goals, and ensures only authorized withdrawals by the contract owner
 
